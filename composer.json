@@ -2,8 +2,7 @@
   "name": "jeyroik/extas-errors",
   "description": "Errors package for Extas",
   "require": {
-    "jeyroik/extas-foundation": "5.*",
-    "jeyroik/extas-samples": "3.*"
+    "jeyroik/extas-foundation": "5.*"
   },
   "require-dev": {
     "phpunit/phpunit": "^9",
